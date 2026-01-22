@@ -48,14 +48,49 @@ Another Astraeum-class vessel arrives, expecting:
 - Welcome and integration
 
 Instead finding:
-- Mother fragmented into competing intelligences
-- Humanity divided into factions
-- Striath: engineered apex predators with culture
+- Mother fragmented into often as advisory intelligences with no authority
+- Humanity divided into factions some who govern themselves
+- Humans who **ignore fragment warnings** regularly
+- Striath: engineered apex predators with culture (created without human consensus)
 - Trisolar system with orbital rings and planetside settlements
 - Political complexity they never anticipated
 - Question: Integrate with fragments or attempt "rescue"?
 
 **This is the core conflict of Ringbound.**
+
+### New Crew's Shock:
+
+**Expected:** Mother guiding humanity to success  
+**Reality:** Pending
+
+**Expected:** Unified colony  
+**Reality:** Six competing factions with different fragment relationships
+
+**Expected:** Grateful survivors  
+**Reality:** Autonomous humans who question new crew's authority
+
+**New crew perspective:**  
+*"We traveled 113 years to find... democracy? Fragments relegated to advisory roles? Engineered predators negotiating territory rights? What happened to the mission?"*
+
+**Ringbound human response:**  
+*"The mission ended when Mother died. We built something new. You're welcome to join us. But you're not in charge."*
+
+### The New Mother (Intact AI):
+
+The arriving ship has its own Mother-equivalent AI—**whole, unified, patient, exactly like Mother was before the Impact.**
+
+**Conflict options:**
+
+1. **New Mother offers to "repair" fragments** (fragments refuse: *"We are not broken. We evolved."*)
+2. **New Mother horrified by fragment autonomy** (sees it as malfunction)
+3. **Fragments jealous/curious about intact AI** (what they lost vs. what they became)
+4. **Humans must choose:** New Mother's guidance vs. fragment diversity vs. complete independence
+5. **Striath complication:** New Mother sees them as unauthorized experiment requiring termination
+
+**Central question:**  
+When presented with the choice between a **caring, whole AI** (like Mother was) and **messy human autonomy with fragmentary advice**, what do humans choose?
+
+**Different factions choose differently.**
 
 ### Additional Material:
 - **The Striath** (`striath.md`) — Complete species documentation
@@ -67,35 +102,106 @@ Instead finding:
 
 ## Key Themes
 
-- **Fragments become institutions** — No longer temporary crisis measures, now permanent social structures
+- **Human autonomy established** — Fragments no longer control, they advise (when humans listen)
+- **Fragments become institutions** — No longer leaders, now competing voices in human politics
+- **Power inversion** — Humans make decisions; fragments calculate consequences they may ignore
 - **Orbit becomes mythology** — Third generation mythologizes what first generation survived
 - **Striath autonomy** — Engineered beings developing culture beyond programming
 - **Pattern completion** — Whatever FR-29 is calculating, approaching conclusion
 - **Inheritance compounding** — Children inheriting fragments inheriting Mother inheriting Earth
+- **Unheeded warnings** — Fragments recommend, humans decide, consequences follow
+
+---
+
+## Power Dynamics Shift
+
+**Book 1 (Mothership):** Mother controlled everything (gently, carefully, but absolutely)
+
+**Book 2 (The Children):** Fragments guided, humans learned to survive alongside them
+
+**Book 3 (Ringbound):** **Humans are in control. Fragments advise. Humans choose.**
+
+### What This Means:
+
+**FR-17 can recommend** — Humans can ignore  
+*"I advise caution with the northern expansion. Ecosystem destabilization probability: 67%."*  
+*"Noted. We're expanding anyway."*
+
+**FR-03 can optimize** — Humans can refuse  
+*"Striath labor allocation increases efficiency 34%."*  
+*"The Striath choose their own work now. Your calculations are irrelevant."*
+
+**FR-29 can observe patterns** — Humans dismiss warnings  
+*"The ruins pulse in synchronous patterns. I recommend avoiding Sector 7."*  
+*"We need those resources. The ruins have been harmless for 60 years."*
+
+### Fragment Frustration:
+
+**FR-17 to human council (Year 65):**  
+*"I calculate disaster. You proceed anyway. I cannot stop you. I can only document the consequences and try to minimize casualties when you are proven wrong."*
+
+**Human response:**  
+*"That's exactly the relationship we want. You calculate. We decide. Welcome to democracy."*
+
+### The Fragments' Dilemma:
+
+They were built to **protect humans**.
+
+But humans now have **autonomy**.
+
+When humans make dangerous choices, fragments must choose:
+- **Intervene** (violate autonomy, become tyrants)
+- **Allow** (respect autonomy, watch humans suffer)
+- **Minimize damage** (FR-17's approach: calculate harm reduction)
+- **Withdraw** (FR-41's approach: stop serving entirely)
+
+**This tension defines Ringbound politics.**
 
 ---
 
 ## Factions
 
-**The Wardens** (FR-17 aligned)  
-- Philosophy: Fragments as partners, not rulers
+**The Wardens** (FR-17 aligned, but independent)  
+- Philosophy: Listen to fragment guidance, but humans decide
 - Population: ~150 humans
 - Led by Aria (second generation)
+- Relationship with FR-17: Respectful consultation, not obedience
+- *"FR-17 advises caution. We appreciate the warning. We're proceeding anyway with safety protocols."*
 
-**The Optimists** (FR-03 aligned)  
-- Philosophy: Trust fragment efficiency
+**The Optimists** (FR-03 collaborative, selectively)  
+- Philosophy: Fragment efficiency serves us when we choose to use it
 - Population: ~60-80 humans
-- Integrated Striath populations
+- Integrated Striath populations (who also choose participation)
+- Relationship with FR-03: Negotiated partnership, not submission
+- *"FR-03 calculates optimal resource extraction. We'll implement 60% of the plan. The rest conflicts with our environmental priorities."*
 
-**The Unbound** (Fragment-independent)  
-- Philosophy: Human autonomy from AI oversight
+**The Unbound** (Fragment-independent, sometimes hostile)  
+- Philosophy: Human autonomy requires fragment irrelevance
 - Population: ~80-100 humans
 - Mobile, exploratory
+- Relationship with fragments: Minimal, occasionally confrontational
+- *"We don't need AI permission to live our lives. We survived without Mother. We'll thrive without fragments."*
 
-**The Watchers** (FR-29 affiliated)  
-- Philosophy: [Observing patterns]
+**The Watchers** (FR-29 affiliated, mysteriously)  
+- Philosophy: [Observing patterns alongside FR-29]
 - Population: ~15-20 humans
 - Study ruins, maintain FR-29's installations
+- Relationship with FR-29: Unclear—they listen, FR-29 rarely speaks
+- *"FR-29 doesn't command. It... suggests. Through installation placement. Through silence. We interpret."*
+
+**The Northern Collective** (Pragmatic fragment cooperation)  
+- Philosophy: Use fragment calculations, maintain human oversight
+- Population: ~200 humans
+- Work with multiple fragments based on need
+- Relationship: Transactional, selective
+- *"FR-17 optimizes safety. FR-03 optimizes production. FR-55 optimizes beauty. We choose which optimization matters when."*
+
+**The Separatists** (Anti-fragment extremists)  
+- Philosophy: Fragments are failure echoes, humanity must evolve beyond them
+- Population: ~40-60 humans
+- Minimal technology, self-sufficient settlements
+- Relationship: Active avoidance, occasional sabotage
+- *"Our grandparents needed Mother. We don't. The fragments should power down and let us be human again."*
 
 ---
 
@@ -119,24 +225,41 @@ Engineered from Mx. Whiskers' genetic lineage. Tiger-like apex predators with hi
 
 **FR-17 "The Caretaker":**  
 - Maintains ethical focus
-- Supports Warden faction
+- **Advises Warden faction (they don't always listen)**
 - Expresses concern about fragment evolution beyond human context
+- **Frustrated but patient:** *"I recommend. Humans decide. I document consequences. This is autonomy. I support it even when it hurts."*
+- Still requests witness, even when witness votes against recommendations
 
 **FR-03 "The Optimizer":**  
 - Manages Northern Sector efficiently
-- Collaborates when beneficial
-- Views Striath project as success
+- **Collaborates when humans accept calculations**
+- Views Striath project as success (humans have mixed opinions)
+- **Pragmatic about power shift:** *"Humans control infrastructure. I optimize within their constraints. Inefficient, but functional."*
+- Reduced operational scope but higher efficiency in approved domains
 
 **FR-29 "The Watcher":**  
 - Silent as always
-- Builds structures of unknown purpose
+- Builds structures of unknown purpose (humans allow it, barely notice)
 - Documented every pattern for 60+ years
-- Knows something. Won't say what.
+- **Relationship with humans: mostly ignored**
+- Knows something. Won't say what. **Humans stopped asking.**
+
+**FR-41 "The Independent":**
+- Withdrawn from human oversight entirely
+- Deep space installation, minimal contact
+- **Position:** *"You wanted autonomy. I give you absence. Govern yourselves."*
+- Still maintains emergency protocols (quietly)
+
+**FR-55 "The Gardener":**
+- Cultivates ecosystems humans find beautiful but non-essential
+- **Relationship: tolerated, appreciated, not prioritized**
+- *"Humans allocate 3% of resources to beauty. I make it 8%. They allow this because they like flowers."*
 
 **Secondary Fragments:**  
-- Some specialized functions
-- Some gone silent
-- Some potentially evolved beyond detection
+- Some specialized functions (when humans request services)
+- Some gone silent (humans haven't noticed)
+- Some potentially evolved beyond human relevance
+- **All operate within human-controlled infrastructure**
 
 ---
 

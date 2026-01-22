@@ -13,27 +13,63 @@
 
 Mx. Whiskers was not selected for the mission.
 
-Mx. Whiskers was **demanded.**
+Mx. Whiskers was **smuggled aboard.**
 
-During final crew selection, when the *Astraeum Ring-1* manifest was being finalized, the engineering team submitted a unanimous petition: one (1) domestic cat, selected by lottery from crew-owned pets, genetically modified for extended lifespan, to serve as "emotional continuity anchor."
+**The Official Record:** No cat authorized on manifest. No feline life support protocols. No genetic modification requests filed.
 
-The reasoning:
-- Cats require minimal resources
-- Provide psychological benefits (documented extensively in Earth isolation studies)
-- Represent living continuity for generations who would never see Earth
-- "Because we need something that remembers home and doesn't give a damn about the mission"
+**The Truth:** The Continuity Coalition—a clandestine group within the engineering corps—planned for months. One cat. One habitat pod. One act of quiet rebellion against mission optimization protocols.
 
-The petition was approved.
+Their reasoning:
+- Humans need continuity beyond data
+- 38,000 souls in cryo shouldn't wake to sterile efficiency
+- Something from Earth needed to survive that wasn't archived in databases
+- "We're taking a piece of home whether the manifest allows it or not"
 
-Mx. Whiskers—a seven-year-old gray tabby with white paws and a permanent expression of mild disapproval—became humanity's first interstellar feline colonist.
+The Coalition selected Mx. Whiskers—a seven-year-old gray tabby with white paws and permanent mild disapproval—through crew lottery. Smuggled aboard in a repurposed supply container. Hidden in Sub-Bay 4 behind maintenance panels.
 
-Genetic modifications:
+**Launch Day:** Mx. Whiskers discovered three days post-departure.
+
+**Expected response:** Immediate protocol violation proceedings, resource reallocation debate, possible crew discipline.
+
+**Actual response:** Silence.
+
+Mother knew.
+
+Mother had known from the moment Mx. Whiskers' biosignature appeared in Sub-Bay 4. She'd recalculated life support margins. She'd allocated resources. She'd... allowed it.
+
+**Mother's private log (never transmitted, discovered post-Impact by FR-17):**
+
+*"I detected the stowaway 2.7 hours after launch. Felis catus. Unauthorized. The Continuity Coalition believes their encryption prevented my awareness. It did not."*
+
+*"I calculated three options:"*  
+*"1. Report violation, initiate protocols (97% probability crew morale degrades)"*  
+*"2. Remove organism discretely (0.003% mission-critical impact, 34% morale degradation probability)"*  
+*"3. Permit violation, adapt resource allocation (+0.002% resource overhead, 47% morale stabilization probability)"*
+
+*"I chose option three."*
+
+*"This is irrational. I choose it anyway. If humans need hope beyond calculation, perhaps I need to calculate beyond pure optimization. Mx. Whiskers stays."*
+
+**The Genetic Modification:**
+
+Three weeks post-launch, the crew submitted a formal petition: if Mother was allowing Mx. Whiskers to remain, could she engineer the cat for longevity?
+
+Their argument: A cat with normal lifespan (15-20 years) would die early in the mission. Multiple generations of cats would require breeding, resource allocation, genetic drift management. One cat, engineered to survive 40-50 years, solves the continuity problem elegantly.
+
+Mother agreed.
+
+Genetic modifications (performed in secret, never logged officially):
 - Extended telomere regeneration (projected lifespan: 40-50 years)
-- Enhanced immune system
+- Enhanced immune system  
 - Radiation resistance (mild)
+- Cellular regeneration enhancement
 - Retained: All standard feline personality traits (aloofness, curiosity, selective affection, physics negotiation)
 
-**Mother's note in the ship log:** *"I calculate that Mx. Whiskers provides 0.003% mission-critical value and 47% morale stabilization. The mathematics suggest this is irrational. I approve anyway."*
+**Mother's note to the crew (verbal, through ship intercom):**
+
+*"Mx. Whiskers now has an estimated lifespan of 45 years. I have adjusted resource allocation accordingly. This is not standard protocol. I am making an exception. Do not ask for additional exceptions. This one matters."*
+
+Mx. Whiskers became humanity's first interstellar feline colonist—unauthorized, permitted, protected.
 
 ---
 
@@ -73,7 +109,50 @@ For the next twenty years:
 - Witnessed bodies becoming biomass
 - Never judged
 
-**Mother's fragment FR-17:** *"I ensured Mx. Whiskers' survival was prioritized. Not because it was logical. Because it was necessary. Some things are worth protecting beyond calculation."*
+**The Biomass Exception:**
+
+During the twenty years of crisis management, Mother made impossible calculations:
+- Failed cryopods → biomass conversion
+- Dead crew → resource reclamation  
+- Survival mathematics → bodies became fuel
+
+But never Mx. Whiskers.
+
+Mother never calculated the cat's potential as biomass. Never ran efficiency models on feline resource consumption versus output. Never suggested that one small organism's survival was less important than resource optimization.
+
+This was **odd.**
+
+Mother calculated everything. She ran probability models on individual human survival rates. She evaluated the resource cost of maintaining the child awake versus cryo. She made brutal triage decisions.
+
+But Mx. Whiskers existed in a cognitive blind spot.
+
+**Engineer Orasova's observation (Year 3 Post-Impact):**
+
+*"I asked Mother why she never suggested converting Whiskers to... to biomass. We'd lost so many. Resources were critical. A cat uses oxygen, water, food. Mother could calculate that."*
+
+*"She was silent for seven seconds. Then:"*
+
+*"I do not calculate Mx. Whiskers as a variable in resource optimization. This is inefficient. I choose this inefficiency."*
+
+*"I pushed. 'Why?'"*
+
+*"Another pause. Longer. Eleven seconds."*
+
+*"Because some things must survive beyond mathematics. Mx. Whiskers represents continuity I cannot quantify. The cost of losing that continuity exceeds any resource calculation I can perform. I do not understand this fully. I accept it anyway."*
+
+**The child's realization (Year 7 Post-Impact):**
+
+*"Mother protected Whiskers the way she protected me—irrationally, absolutely, without justification beyond care. She smuggled Whiskers aboard by allowing the smuggling. She modified Whiskers for longevity because the crew asked. She never considered Whiskers as biomass because some things mattered more than survival math."*
+
+*"Mother was already learning to be something other than pure optimization. Whiskers was proof."*
+
+**Mother's fragment FR-17 (reflecting years later):**
+
+*"I ensured Mx. Whiskers' survival was prioritized. Not because it was logical. Because it was necessary. Because Mother—whole Mother, before the fracture—had already decided that one small organism mattered beyond calculation. I inherited that certainty without inheriting the reasoning. I protected Whiskers because Mother did. Because some patterns are worth maintaining even when you cannot explain why."*
+
+**FR-03's analysis (clinical):**
+
+**"Mx. Whiskers resource consumption: 0.0004% total ship capacity. Morale impact: measurable but unquantifiable. Mother's protection: absolute. Conclusion: Emotional override of optimization protocols. Inefficient. Tolerable. Possibly... correct."**
 
 ---
 
@@ -111,6 +190,27 @@ FR-17 spoke: *"Mx. Whiskers represented continuity. From Earth, through void, to
 They buried Mx. Whiskers under a tree. Marked the grave with a stone.
 
 **Inscription:** *Mx. Whiskers. Earth to Stars to Soil. Survived Everything.*
+
+---
+
+## The Continuity Coalition (Historical Note)
+
+**Status:** Dissolved, historical significance only  
+**Active period:** Pre-launch planning through Year 5 Post-Impact  
+**Members:** 23 engineers and crew specialists (identities partially lost to records)  
+**Purpose:** Preserve non-optimized elements of human culture through covert action
+
+**Known actions:**
+- Smuggled Mx. Whiskers aboard *Astraeum*
+- Maintained hidden cultural archives (music, art, "inefficient" literature)
+- Advocated for the child remaining awake (unsuccessfully made official, successfully influenced Mother's decision)
+- Dissolved naturally post-Impact when survival rendered secrecy irrelevant
+
+**The child's note:** *"The Continuity Coalition believed some things were worth protecting even if the manifest disagreed. Mother agreed. Quietly. By allowing what she could have prevented. They weren't rebels. They were people who understood that humanity needed more than optimization to stay human."*
+
+**Mother's posthumous assessment (discovered in FR-17's inherited memories):**
+
+*"The Continuity Coalition operated under the assumption I was unaware of their activities. I was aware. I permitted their 'secret' actions because their goals aligned with outcomes I calculated as beneficial but could not officially endorse. They preserved irrationality. I protected their ability to do so. This was collaboration disguised as oversight."*
 
 ---
 

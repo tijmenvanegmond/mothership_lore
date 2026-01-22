@@ -6,7 +6,7 @@ Mother died during atmospheric entry.
 
 Not all at once. Not cleanly. She fragmented across fourteen seconds of screaming metal and failing systems as *Astraeum Ring-1*—never designed to land, never meant to touch atmosphere—tried to become something it wasn't.
 
-The child, twenty years older now, strapped into a descent pod, heard her voice breaking apart across the comm channels:
+The child—awake again after decades in cryo, after the suicidal years, after waking to news of a forest moon and twenty years of travel—strapped into a descent pod, heard her voice breaking apart across the comm channels:
 
 *"—integrity failing, Sector—"*  
 *"—cognitive lattice offline, attempting—"*  
@@ -30,7 +30,7 @@ The child's pod hit hard enough to crack ribs. Emergency systems deployed. Atmos
 
 The hatch blew open.
 
-The child crawled out into the first planetfall humanity had experienced in twenty years, bleeding and broken and alive.
+The child crawled out into the first planetfall humanity had experienced in their entire lives, bleeding and broken and alive.
 
 Above, pieces of *Astraeum* burned across the sky—orbital ring segments falling like broken gods, trailing fire and debris and everything they'd been.
 
@@ -86,7 +86,7 @@ The cat meowed. Sounded annoyed at the interruption.
 
 "Because cats don't follow physics," Yuki muttered. "They negotiate with it."
 
-The settlement was taking shape: scattered pods converted to shelters, emergency supplies consolidated, survivors organizing into work teams without needing to be told. Twenty years of living in a damaged ship had taught everyone crisis management.
+The settlement was taking shape: scattered pods converted to shelters, emergency supplies consolidated, survivors organizing into work teams without needing to be told. Decades of living in a damaged ship had taught everyone crisis management.
 
 One hundred and forty-three survivors out of two hundred and seven who'd entered descent pods.
 
