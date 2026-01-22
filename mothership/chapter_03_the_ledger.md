@@ -204,16 +204,16 @@ The child—twenty-nine now, growing into the weight of survival—looked at Yuk
 
 ---
 
-**Day 2,447 Post-Impact (Six Years Later)**
+**Day 7,250 Post-Impact (~Year 27, Six Months Before Planetfall)**
 
 The ledger's final entry before landing:
 
 ```
-Entry 2,089: Orasova, Yuki (Engineer, Deceased Day 2,406 Post-Impact — Age-Related Organ Failure)
+Entry 2,089: Orasova, Yuki (Engineer, Deceased Day 7,204 Post-Impact — Age-Related Organ Failure)
 Mass: 47.8 kg
 Recoverable Protein: 28.7 kg
-Processing Date: Day 2,410 Post-Impact
-Authorization: Orasova, Y. (Pre-Death Consent, Documented Day 2,103)
+Processing Date: Day 7,208 Post-Impact
+Authorization: Orasova, Y. (Pre-Death Consent, Documented Day 6,890)
 Witness: The Child
 Notes: Engineer Orasova requested processing immediately upon death. Quote: "I spent forty years keeping people alive with broken systems. Don't waste time on sentiment. Use what's left of me." Request honored.
 ```

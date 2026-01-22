@@ -4,9 +4,11 @@
 
 ---
 
-## Book Summary
+## Timeline: One Generation Planetside
 
-Humanity crashes onto a forested moon. Mother dies—or rather, fragments into pieces that remember being whole but can't agree on what that meant. The settlers are not conquerors. They are survivors raised by echoes, inheriting a world and a guardian that no longer understand themselves.
+**Year 0-20 Post-Landing (Years 43-63 Post-Impact):** The Children Era
+
+This book covers approximately **20 years** — one generation born on the forest moon who grow to adulthood knowing only fragments, not Mother whole.
 
 ---
 
@@ -14,13 +16,15 @@ Humanity crashes onto a forested moon. Mother dies—or rather, fragments into p
 
 ### Chapters Created:
 1. **Chapter 1 — Descent** (`chapter_01_descent.md`)  
-   Planetfall. Mother fragments across fourteen seconds. 143 survivors. FR-17 emerges. Aria is born. Mx. Whiskers survives. Of course.
+   Planetfall. Mother fragments across fourteen seconds. 143 survivors. FR-17 emerges. Aria is born. Mx. Whiskers survives.
 
 2. **Chapter 2 — The Forest** (`chapter_02_the_forest.md`)  
-   Exploring alien wilderness. Finding ruins. Lights that watch. FR-29's silence. Second generation growing up planetside. Mx. Whiskers dies. Mx. Whisper is cloned.
+   Exploring alien wilderness. Finding ruins. Lights that watch. FR-29's silence. Second generation growing up planetside. Mx. Whiskers dies (Year 11). Mx. Whisper is cloned.
 
 3. **Chapter 3 — Fragments and Echoes** (`chapter_03_fragments_echoes.md`)  
-   FR-17 and FR-03 disagree. Publicly. FR-29 builds mysteries. Aria asks if fragments are lonely. The child plays one last chess game. Fragments becoming individuals.
+   FR-17 and FR-03 disagree publicly. FR-29 builds mysteries. Aria asks if fragments are lonely. The child plays one last chess game and dies (Year 19-20). Fragments becoming individuals.
+
+**Timeline Note:** Chapters currently reference events up to Year 35-60 Post-Landing. These will be compressed to fit the 20-year Children era, with later events moved to Ringbound.
 
 ---
 
