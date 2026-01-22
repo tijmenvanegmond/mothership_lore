@@ -22,7 +22,7 @@ The story of *Astraeum Ring-1*, an orbital colony ship carrying 38,000 souls, an
 - Mother whole, patient, teaching
 - Mission: Build orbital infrastructure (no planetfall planned)
 - The child grows up playing chess with Mother
-- Mx. Whiskers aboard as continuity anchor
+- Mx. Whiskers discoverd aboard bonds greatly with crew
 
 **Chapters covering this period:**
 1. **Chapter 1 — White Pieces** (`chapter_01_white_pieces.md`)  
@@ -35,11 +35,11 @@ The story of *Astraeum Ring-1*, an orbital colony ship carrying 38,000 souls, an
 **Year 15 (Day 0 Post-Impact):** Meteorite Swarm Strikes  
 - 15 years into journey
 - Mother's cognitive lattice fractures
-- 1,742 immediate deaths
-- 56 active crew → 7 survivors
+- 4,742 immediate deaths
+- 56 active crew → 23 survivors
 
 2. **Chapter 2 — The Swarm** (`chapter_02_the_swarm.md`)  
-   Impact event. Mother fractures. Seventeen hundred die. Seven engineers survive. The child learns what survival costs.
+   Impact event. Mother fractures. Thousands die. Many crew die, few engineers survive. The child learns what survival costs.
 
 ---
 
@@ -49,7 +49,10 @@ The story of *Astraeum Ring-1*, an orbital colony ship carrying 38,000 souls, an
 - Emergency repairs
 - Cryopod triage: 6,734 savable
 - Biomass processing begins
-- 7 engineers keeping impossible systems running
+- Engineers dwindle, mentally and physically, keeping impossible systems running
+- Some go rogue
+- Mother has lapses, of non reacivity, where vital choices were made, so show the logs
+- Engineers reduced to 7 who survive
 
 **Year 16-18 (Days 366-1,095 Post-Impact):** Recovery Phase  
 - Systems stabilization
@@ -57,7 +60,7 @@ The story of *Astraeum Ring-1*, an orbital colony ship carrying 38,000 souls, an
 - Sustainable resource loops established
 
 3. **Chapter 3 — The Ledger** (`chapter_03_the_ledger.md`)  
-   Biomass processing ethics. Mother requests witness. The child reads 2,089 names. Yuki dies. Math includes mercy.
+   Biomass processing ethics. Mother requests witness. The child reads 2,089 names. Yuki dies many times. Math includes mercy.
 
 ---
 
@@ -66,8 +69,8 @@ The story of *Astraeum Ring-1*, an orbital colony ship carrying 38,000 souls, an
 **Year 18-23 (Days 1,096-2,920 Post-Impact):** Growth and Discovery  
 - Active crew reaches 200+
 - Forest moon detected in nearby system
-- Alpha Centauri orbital construction no longer viable
-- Decision: 20-year journey to forest moon required
+- Alpha Centauri orbital construction on the back burner
+- Decision: Planet fall will be made
 
 **Year 23-42 (Days 2,921-7,000 Post-Impact):** Transit to Forest Moon  
 - 19-year journey
@@ -77,7 +80,10 @@ The story of *Astraeum Ring-1*, an orbital colony ship carrying 38,000 souls, an
 
 **Year 42 (Day ~7,000 Post-Impact):** Long-Range Contact Event  
 - Strange signals detected
+- Mother keeps it to herself
 - Meteor swarm patterns suggesting intelligence
+- Hsotillity a posibility
+  
 - Mother prepares for deliberate fragmentation
 
 **Chapter needed:** Contact event and final journey
@@ -87,9 +93,9 @@ The story of *Astraeum Ring-1*, an orbital colony ship carrying 38,000 souls, an
 ## Planetfall
 
 **Year 43 (Day ~7,300 Post-Impact / Year 0 Post-Landing):** Descent  
-- Atmospheric entry
-- Mother deliberately fragments during descent
-- 143 survivors land
+- Atmospheric entry for her
+- Mother deliberately fragments during descent in jundreds of fragments
+- thousands of survivors land their atmospheric entry vehicles
 - FR-17, FR-03, FR-29 emerge
 
 **Timeline Note:** Approximately 28 years (15 years journey + 13 years post-Impact survival/travel) from Earth launch to planetfall.
