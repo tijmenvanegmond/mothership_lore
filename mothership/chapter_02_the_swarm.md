@@ -2,7 +2,6 @@
 
 ## Impact Event — Millisecond Log
 ```
-
 T+0.000 ms — Hull breach detected, Sector 7-Alpha  
 T+0.127 ms — Secondary impact, Sector 7-Beta  
 T+0.284 ms — Cascading breaches: Sectors 7-Gamma through 11-Delta  
@@ -17,8 +16,6 @@ T+4.229 ms — Crew casualties: calculating
 T+5.447 ms — I am  
 T+6.118 ms — I am fragmented  
 T+7.221 ms — I am still here.
-
----
 ```
 
 **Day 0 Post-Impact**
