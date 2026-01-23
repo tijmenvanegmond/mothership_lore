@@ -220,9 +220,13 @@ Processed together (per their pre-logged wishes).
 
 ---
 
+## The Few
+
+few crew survived the initial collision 
+
 ## The Seven
 
-After Impact, these seven survived the initial catastrophe:
+After Impact, these seven survived the catastrophe:
 
 1. Yuki Orasova (Thermal Systems)
 2. Carlos Vásquez (Structural)
@@ -232,7 +236,6 @@ After Impact, these seven survived the initial catastrophe:
 6. Marcus Torres (Medical)
 7. Sarah Kim (Navigation)
 
-**By Day 200 Post-Impact:** Three had died. Four remained.
 
 **By Year 5 Post-Impact:** Crew rebuilt to 28 active members (woken from functional cryopods).
 
