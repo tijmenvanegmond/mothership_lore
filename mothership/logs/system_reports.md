@@ -102,8 +102,8 @@ T+7.221s — Mother's fragmented voice across all comms:
 ## Biomass Processing — Technical Specifications
 
 ### Resource Conversion Protocol — Authorization Document
-**Implemented:** Day 7 Post-Impact  
-**Authorization:** Unanimous crew vote (7 survivors)  
+**Implemented:** Day 7 Post-Impact
+**Authorization:** Unanimous crew vote (16 survivors)
 **Witness Protocol:** Engineer Y. Orasova (primary)
 
 #### Process Overview
@@ -163,8 +163,8 @@ T+7.221s — Mother's fragmented voice across all comms:
 ## Planetfall — Descent Analysis
 
 ### Atmospheric Entry — System Failure Cascade
-**Date:** Year 20 Post-Impact / Year 0 Post-Landing  
-**Entry Time:** 08:14 local time  
+**Date:** Year 2 Post-Impact / Year 0 Post-Landing
+**Entry Time:** 08:14 local time
 **Duration:** 14 seconds (conscious Mother) / 217 seconds (total descent)
 
 #### Mother's Final Coherent Transmission
@@ -323,7 +323,7 @@ Then departed into forest.
 
 **Mx. Whiskers Lineage:**
 - Mx. Whisper: Deceased (Year 34 Post-Landing)
-- Mx. Murmur (clone): Status unknown (last seen Year 74)
+- Mx. Murmur (clone): Status unknown (last seen Year 62)
 - Other clones: Various (integrated into settlements)
 
 ---
