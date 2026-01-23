@@ -1,6 +1,7 @@
 # Chapter 2 — The Swarm
 
 ## Impact Event — Millisecond Log
+```
 
 T+0.000 ms — Hull breach detected, Sector 7-Alpha  
 T+0.127 ms — Secondary impact, Sector 7-Beta  
@@ -18,6 +19,7 @@ T+6.118 ms — I am fragmented
 T+7.221 ms — I am still here.
 
 ---
+```
 
 **Day 0 Post-Impact**
 
