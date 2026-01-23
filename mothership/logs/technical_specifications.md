@@ -15,7 +15,6 @@ Comprehensive technical documentation for the interstellar colony vessel *Astrae
 | **Engine Nacelle Ring Diameter** | ~1,000m |
 | **Total Mass (loaded)** | ~85,000 tons |
 | **Population Capacity** | 38,000 (cryogenic) + 56 active crew |
-| **Mission Duration** | 15 years Sol to Alpha Centauri |
 | **Mission Objective** | Establish self-sufficient orbital infrastructure at Alpha Centauri |
 
 ---
@@ -42,9 +41,12 @@ DIRECTION OF TRAVEL ────────────────────
 
 ◄──────────────────────────── 4km SPINE (in tension) ────────────────────────────►
 
-FRONT                                                                           AFT
+AFT                                                                           FRONT
   │                                                                               │
   ▼                                                                               ▼
+
+                                                         ║
+                                                         ║
 ┌───────┬──────────┬─────────┬───────────┬────────┬══════════════╬════════┬───────────┐
 │ FORGE │ REACTORS │  CARGO  │   TORUS   │  FUEL  │ENGINE NACELLE║  FUEL  │ SHIELDING │
 │       │   (×4)   │         │  (800m)   │ TANKS  │    RING      ║ TANKS  │           │
@@ -55,8 +57,8 @@ FRONT                                                                           
                                                   6 engines each
                                                     (36 total)
                                                          ║
-                                                  ▼▼▼▼▼▼▼▼▼▼▼▼
-                                                   EXHAUST AFT
+                                                         ║
+                                                <- EXHAUST
 ```
 
 ### Section Breakdown
@@ -90,23 +92,6 @@ FRONT                                                                           
 
 ### Rotation Configuration
 
-```
-        SPINE (stationary)
-              ║
-              ║
-    ══════════╬══════════  ←── rotation axis
-              ║               (perpendicular to spine)
-              ║
-
-              │
-           ┌──┴──┐
-          ╱       ╲        TORUS rotates around spine
-         │    ║    │       like a wheel on an axle
-          ╲       ╱
-           └──┬──┘         1.5 RPM → 0.4g at rim
-              │
-```
-
 - Spine passes through non-rotating central hub
 - Torus spins around hub on magnetic bearings
 - Crew and cargo transfer through hub airlocks
@@ -136,24 +121,8 @@ FRONT                                                                           
 
 ### Engine Nacelle Ring
 
-The engine nacelle ring serves as the primary thrust application point, positioned at 2,400–2,600m along the spine.
+The engine nacelle ring serves as the thrust application point, positioned at 3,400–3,600m along the spine.
 
-```
-              ENGINE NACELLE RING (top view)
-
-                    [PYLON 1]
-                       ╱
-              [P6]────●────[P2]
-                     ╱│╲
-                    ╱ │ ╲
-              [P5]───●───[P3]
-                      ╲
-                    [PYLON 4]
-
-          ● = spine passes through center
-          Pylons spaced at 60° intervals
-          Each pylon: 600m length, 6 engines
-```
 
 | Parameter | Value |
 |-----------|-------|
