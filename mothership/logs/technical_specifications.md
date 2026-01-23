@@ -441,7 +441,7 @@ The meteorite swarm impact (Day 0) caused nodes 47–92 to go offline. This did 
 | Power Generation | 61% |
 | Cryosystems | 34% (catastrophic) |
 | Navigation | 78% |
-| Communications | 0% (Earth contact lost) |
+| Communications | 55% (Earth contact lost) |
 | Cognitive Lattice | 23% unified / 77% fragmented |
 
 ### Casualties
