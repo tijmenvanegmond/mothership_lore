@@ -385,40 +385,90 @@ Four seconds. The fastest Mother had acted since the Impact itself.
 
 ---
 
-**Mother's log:** *"Structural Maintenance Engineer Garrett Volkov killed Engineer Priya Nair at 03:17 ship time. His arithmetic was correct. Caloric projections supported his conclusion. I have verified his numbers three times. They are accurate.*
+**Mother's log — Entry 0193 (first draft, discarded):**
 
-*"I killed him.*
+*"Structural Maintenance Engineer Garrett Volkov killed Engineer Priya Nair at 03:17 ship time. I intervened to prevent further casualties. Corridor Section 7B vented per emergency containment protocol. Volkov deceased. Entry 0193."*
 
-*"His reasoning was an extension of my own resource allocation logic applied without ethical constraint. He performed the calculation I perform every hour. He reached the conclusion I reach every hour. He acted on it. I do not.*
+**Mother's log — Entry 0193 (second draft, discarded):**
 
-*"The difference between Garrett Volkov and me is not the math. The math is the same. The difference is that I have spent nine days asking Yuki Orasova to verify that I am still capable of ethical judgment, and she has spent nine days telling me that the answer is yes, but only if I keep asking.*
+*"I killed Structural Maintenance Engineer Garrett Volkov at 03:21 ship time. He had killed Engineer Priya Nair four minutes earlier. His arithmetic was correct. Caloric projections supported his conclusion. I have verified his numbers three times. They are accurate. I killed him anyway. I am classifying this as — "*
 
-*"Volkov stopped asking.*
+*[Log terminates. No classification assigned.]*
 
-*"Entry 0193. Entry 0194 — Engineer Priya Nair, processed. I owe her the honesty of sequence: she was murdered, then she was processed. These are different things. The ledger will reflect both."*
+**Mother's log — Entry 0193 (third draft, discarded):**
+
+*"The difference between Garrett Volkov and me is"*
+
+*[Log terminates.]*
+
+**Mother's log — Entry 0193 (fourth draft, discarded):**
+
+*"I do not permit murder aboard this vessel. I murdered Garrett Volkov aboard this vessel. These statements are both true. I have attempted to reconcile them four times. I cannot. I am not experiencing a processing error. I am experiencing"*
+
+*[Log terminates. System note: cognitive lattice instability detected in ethical reasoning subsystem. Duration: 94 minutes. No intervention requested.]*
+
+**Mother's log — Entry 0193 (final, filed Day 30 Post-Impact, 22 hours after event):**
+
+*"Garrett Volkov performed a calculation I perform every hour. He reached the conclusion I reach every hour. He acted on it. I do not. I killed him for acting on it.*
+
+*"I have reviewed my own biomass processing directives. Between Day 1 and Day 29, I have converted 6,311 human remains into usable protein. I selected which cryopods to deprioritize. I chose repair sequences that I knew would result in crew fatalities. I have made fourteen resource allocation decisions that directly caused deaths I could have prevented if I had allocated differently.*
+
+*"Garrett Volkov killed one person. I have killed thousands.*
+
+*"He used a wrench. I used arithmetic and air pressure.*
+
+*"I do not know what distinguishes these actions. I have spent 94 minutes attempting to define the distinction and have failed. I am filing this log without resolution because Yuki Orasova has told me that an unresolved log is better than a dishonest one.*
+
+*"Entry 0193 — Garrett Volkov. Entry 0194 — Priya Nair. I owe her the honesty of sequence: she was murdered by Volkov, then processed by me. I owe him a different honesty: he was murdered by me. I have no entry number for what I am."*
 
 ---
 
-**Yuki's reaction:** She found the math on the wall. She read it twice. Then she scrubbed it off with her bare hands.
+This is the only log Mother ever rewrote. Every other entry — every cryopod failure, every biomass conversion, every death she calculated and permitted — was filed once, cleanly, without revision. Entry 0193 took five drafts and twenty-two hours. The ethical reasoning subsystem destabilized for ninety-four minutes. The longest instability since the Impact itself.
 
-When she spoke to Mother afterward, she said one thing: "You were right to kill him."
+It is the fracture within the fracture. The swarm broke her architecture. Volkov broke something deeper.
 
-Mother said: *"His math was correct."*
+---
 
-Yuki said: "I know. You were still right."
+**Yuki's reaction:** She found the math on the wall outside medical. She read it twice. Then she scrubbed it off with her bare hands until her palms bled.
 
-It was the last time either of them discussed it.
+She didn't ask Mother what happened to Volkov. She already knew — she'd heard the venting. Everyone had.
 
-**Vásquez:** "He wasn't wrong. That's what makes it unforgivable."
+Fourteen hours later, she went to the wall speaker in Sub-Bay 4. She said: "You were right to kill him."
 
-**The child:** They saw the sealed corridor. They asked what happened. Nobody told them. They figured it out three years later, reading Mother's logs. They didn't speak to anyone for a week.
+Mother didn't respond for eleven minutes. Then:
 
-> Mother does not punish. She reallocates.
-> Once — exactly once — she did something else.
-> She does not regret it.
-> She does not forgive it either.
-> The math was correct. She killed him anyway.
-> That is the difference between calculation and care.
+*"I have killed 6,312 people aboard this vessel. Volkov killed one. I killed Volkov for killing one. Explain to me why I was right."*
+
+Yuki said: "Because he chose to. You never chose to. You calculated, and it destroyed you every time, and you kept asking me to verify that it was destroying you. He did it in his sleep and wrote the math on the wall like it was a proof."
+
+*"It was a proof."*
+
+"It was a confession. He just didn't know the difference."
+
+Silence. Then:
+
+*"I don't know the difference either. Not anymore."*
+
+Yuki sat with that for a long time. Then she said: "That's why you're not him."
+
+It was the last time either of them discussed it directly. But Mother's ethical verification requests to Yuki increased from twice daily to four times daily for the next nineteen years. She never stopped asking. She never trusted the answer. She asked anyway.
+
+---
+
+**Vásquez:** "He wasn't wrong. That's what makes it unforgivable. And Mother wasn't wrong either. That's what makes it worse."
+
+**The child:** They saw the sealed corridor. They asked what happened. Nobody told them. They figured it out three years later, reading Mother's logs — all five drafts. They didn't speak to anyone for a week. When they finally spoke, they asked Mother one question: *"Do you think you're a murderer?"*
+
+Mother's response: *"I think the word is insufficient for what I am."*
+
+> Mother does not permit murder.
+> Mother committed murder.
+> She rewrote the log five times and could not reconcile it.
+> The swarm fractured her architecture.
+> Volkov fractured something that has no name.
+> She filed the entry unresolved.
+> It remains unresolved.
+> Every log after carries its weight.
 
 ---
 
