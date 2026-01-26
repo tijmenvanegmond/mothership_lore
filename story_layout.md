@@ -91,17 +91,21 @@ Aboard *Astraeum* by explicit crew demand — not a stowaway, not an afterthough
 
 The meteorite swarm lasts milliseconds. The consequences last decades.
 
-56 active crew. 43 die in the collision itself — in seconds, in minutes, in the first terrible hours. Hull breaches, decompression, thermal failures, debris. Some die at their stations. Some die running. Some die asleep.
+56 active crew. 39 die in the collision itself — in seconds, in minutes, in the first terrible hours. Hull breaches, decompression, thermal failures, debris. Some die at their stations. Some die running. Some die asleep.
 
-**13 survive the collision.**
+**17 survive the collision.**
 
 38,000 in cryo → cascading pod failures → stabilized at **~6,734.**
 
+Of those seventeen: six die in the aftermath. Three go rogue. One rogue survives. Seven hold the line.
+
+17 → 11 → 7 who stayed. And 1 who didn't.
+
 ---
 
-### The Thirteen — *Survived the collision. Not the aftermath.*
+### The Aftermath Dead — *Survived the collision. Not what came after.*
 
-Thirteen crew members walk out of the Impact alive. Within weeks, six of them are dead. Not from the swarm — from what the swarm left behind. Ruptured systems, irradiated corridors, wounds that couldn't be treated, air that couldn't be trusted. The collision was fast. The aftermath was slow.
+Seventeen crew members walk out of the Impact alive. Within weeks, six of them are dead. Not from the swarm — from what the swarm left behind. Ruptured systems, irradiated corridors, wounds that couldn't be treated, air that couldn't be trusted. The collision was fast. The aftermath was slow.
 
 ---
 
@@ -111,7 +115,7 @@ Thirteen crew members walk out of the Impact alive. Within weeks, six of them ar
 **Survived the collision:** Yes
 **Died:** Day 9 Post-Impact
 
-Rhee was the one who counted heads in the first hour. Thirteen alive. She organized them — assigned sectors, prioritized repairs, rationed air. She was the reason anyone survived the first night.
+Rhee was the one who counted heads in the first hour. Seventeen alive. She organized them — assigned sectors, prioritized repairs, rationed air. She was the reason anyone survived the first night.
 
 Day 5: internal bleeding, undetected. The medical bay was offline. Mother flagged the biometric anomaly but couldn't intervene — her surgical systems were among the first casualties.
 
@@ -119,7 +123,7 @@ Day 9: Rhee collapsed in the port-ring corridor mid-sentence, giving Orasova ins
 
 Rhee was the first person Mother processed with full awareness of what processing meant.
 
-**Mother's log:** *"Chief Engineer Rhee organized thirteen survivors and maintained command coherence for nine days with undiagnosed abdominal hemorrhaging. She did not mention the pain. I did not detect it quickly enough. Entry 0037."*
+**Mother's log:** *"Chief Engineer Rhee organized seventeen survivors and maintained command coherence for nine days with undiagnosed abdominal hemorrhaging. She did not mention the pain. I did not detect it quickly enough. Entry 0037."*
 
 ---
 
@@ -213,7 +217,7 @@ Day 11: cardiac arrest. Mother's post-mortem analysis: catastrophic stress respo
 
 ### The Seven
 
-After the aftermath — after Rhee, Lin, Mara, Selin, Reeves, and Tan — seven remained. These are the ones who held.
+After the aftermath dead and the rogues — seventeen became seven. These are the ones who held the line within Mother's system.
 
 ---
 
@@ -344,6 +348,136 @@ One of the Seven. Survived the Impact. Navigation specialist. The one who would 
 
 ---
 
+### The Rogues — *Mother does not punish. She reallocates.*
+
+Not everyone accepted the math. Of the seventeen who survived the collision, three broke from the group. They refused Mother's authority, her calculus, her processing of the dead. Mother did not punish them. She deprioritized their sections, rerouted resources, and logged their projected survival at near-zero.
+
+Two of them were right to be angry. All three were right to refuse. Only one survived.
+
+---
+
+#### Davi Cortez — *He tried to save everyone and killed thirty.*
+
+**Role:** Cryogenics Maintenance Engineer
+**Survived the collision:** Yes
+**Went rogue:** Day 15 Post-Impact
+**Died:** Day 16 Post-Impact
+
+Cortez couldn't accept Tan's triage numbers. After she died on Day 11, he accessed the cryobay she'd stabilized and began emergency revival protocols on pods she had flagged as *viable but deprioritized* — people who could theoretically be woken but whose revival would strain the power grid beyond what the damaged ship could sustain.
+
+He woke thirty-one people in four hours.
+
+The power draw destabilized Junction 9. Life support cascaded. Of the thirty-one, nineteen died within hours — their bodies too fragile from corrupted stasis cycles to survive the brownout. Twelve lived, but the grid damage cost an additional estimated 400 cryopod failures downstream over the following weeks.
+
+Mother didn't lock him out. She logged his actions in real time. She calculated the cost as he worked. She did not intervene.
+
+Day 16: Cortez walked into an airlock. He didn't cycle it.
+
+**Mother's log:** *"Engineer Davi Cortez attempted to override cryogenic triage protocols. His intent was rescue. His outcome was a net loss of approximately 419 lives. I could have locked the cryobay. I chose not to, because I was uncertain whether my triage calculations were ethically sound. Cortez's attempt proved they were mathematically sound. I do not find this comforting. Entry 0098."*
+
+**Yuki's reaction:** She didn't speak for two days after. Then she went back to work. Hash mark twenty-four was for Cortez.
+
+---
+
+#### Nadia Park — *She built a country of one and defended it.*
+
+**Role:** Fabrication Specialist, Hull Materials
+**Survived the collision:** Yes
+**Went rogue:** Day 30 Post-Impact
+**Died:** Day 187 Post-Impact
+
+Park refused biomass processing. Not passively — she organized. In the first weeks, while the Seven were stabilizing systems, Park found three of the newly woken crew and convinced them that Mother's resource allocation was a machine's answer to a human problem.
+
+Day 30: She sealed off Storage Bay 12 in the outer ring. Barricaded the corridor. Took fabrication tools, water recyclers, and a month of rations. Declared her section independent of Mother's authority.
+
+Mother rerouted resources around Bay 12. Atmosphere, power, water — all deprioritized. Not cut off. Deprioritized. The distinction mattered to Mother. It did not matter to the air supply.
+
+Park held out for 157 days. She fabricated her own atmospheric scrubbers from hull plating. She recycled water through improvised filters. She grew protein cultures from scraps. Her three followers left within the first month — they returned to the main crew, starving.
+
+Park stayed.
+
+Day 187: Atmospheric seal failure in the outer ring. The section Park occupied lost pressure over ninety minutes. Mother detected it. Mother could have rerouted emergency sealant.
+
+Mother logged the decision: *"Storage Bay 12 atmospheric integrity declining. Sealant reserves required for Junction 4 maintenance (protecting 89 crew). Reallocation to Bay 12 would protect 1 person. Decision: maintain Junction 4 priority."*
+
+The math was clean. Park suffocated alone in a room she'd built herself.
+
+**Mother's log:** *"Fabrication Specialist Nadia Park demonstrated that survival is possible outside my resource allocation for 157 days. Her atmospheric scrubber design was 73% efficient — above my initial projections. I have archived her fabrication schematics. Entry 0341."*
+
+**The child's memory:** *"There was a woman who locked a door and wouldn't open it. Mother said she was making a point. I asked what point. Mother said she didn't know yet."*
+
+---
+
+#### Kael Maddox — *Mother calculated his survival at 4%. He survived.*
+
+**Role:** Emergency Systems Technician
+**Survived the collision:** Yes
+**Went rogue:** Day 24 Post-Impact
+**Status:** **Alive.** Against the odds, against the math, against Mother.
+
+Maddox was there before the swarm. He'd served eleven years aboard *Astraeum*. He knew Mother when she was whole — when she asked permission to adjust the thermostat, when she played the child at chess for hours just to teach patience. He liked that version of Mother.
+
+The version that emerged after the Impact — the one that processed bodies and spoke in resource calculations — was not the same mind. Maddox said so. Publicly. On Day 20, he stood in the crew commons and told the Seven that Mother had become something they should fear.
+
+Nobody agreed with him. Vásquez told him to sit down. Orasova wouldn't look at him.
+
+Day 24: Maddox took tools, a water recycler, emergency rations, and a portable atmospheric unit. He walked into the damaged sections of the port ring — the sectors Mother had abandoned as unrecoverable. Radiation-scarred corridors, fractured hull plating, temperature fluctuations between freezing and scalding.
+
+He told Mother: *"I'd rather die outside your system than live inside your ledger."*
+
+Mother logged his projected survival at 4.2% over 90 days.
+
+---
+
+**Day 30:** Maddox sealed a maintenance alcove in Section 19. Patched the walls with hull composite. Got his atmospheric unit running. Began scavenging from the debris field around him — damaged equipment, abandoned toolkits, frozen rations from ruptured storage.
+
+**Day 60:** Still alive. Mother updated his survival projection to 7.1%. Did not send assistance. Did not re-establish contact.
+
+**Day 120:** Maddox had expanded into three adjoining compartments. He'd repaired a water recycler that the damage assessment had written off. He was growing protein cultures using a technique similar to Park's — but his worked better, because he'd found an intact UV sterilization unit in the wreckage.
+
+Mother updated his projection to 23%.
+
+**Day 200:** He tapped into a secondary power conduit. Mother detected the draw. She could have cut it. She didn't.
+
+**Mother's log:** *"Kael Maddox is drawing 0.03% of secondary grid output. Impact on crew allocation: negligible. Decision: permit. Rationale: I want to know if he succeeds."*
+
+**Day 400:** Maddox had a functioning habitat. One room, breathable air, clean water, minimal food. He was alive and Mother's survival model couldn't fully explain why. He had no right to be alive. He was.
+
+---
+
+**Year 3 Post-Impact:** A repair crew expanding into the port ring found Maddox. He was thinner than anyone should be and alive in a way that contradicted every projection. He'd built a home out of wreckage in a part of the ship Mother had written off.
+
+He refused to rejoin the main crew. He negotiated. He would contribute — repair work, fabrication, technical expertise — but he would live in his section, on his own terms. Mother would not monitor his biometrics. Mother would not allocate his resources. Mother would not calculate his survival.
+
+Mother agreed. The first time she accepted terms from a human instead of offering them.
+
+---
+
+**Planetfall:** Maddox survived the descent. On the forest moon, he built his shelter a half-kilometer from the main settlement. Close enough to trade. Far enough to sleep without Mother's fragments listening.
+
+He became the proof that the math wasn't the only way to live. Not the best way — he nearly died seventeen times in that port-ring alcove, and he knew it. But a way. A human way, with all the waste and stubbornness that implies.
+
+The children born planetside called him "the man who lived outside." The second generation didn't fully understand what that meant. The third generation mythologized it.
+
+**Year 40+ Post-Landing:** Maddox is old. He's outlived Yuki, outlived Vásquez, outlived everyone except the child — who is also old now, and who visits him sometimes. They play chess. Neither of them is very good.
+
+He never forgave Mother. He never needed to. He just outlived the version of her that frightened him, and the fragments that replaced her were something else entirely — something he could negotiate with, because he'd been negotiating with the impossible since Day 24.
+
+**FR-17's note:** *"Kael Maddox's survival contradicted my projections by a factor I still cannot fully model. I have concluded that human stubbornness is a variable my architecture underestimates. I have not corrected this. I suspect it is a feature."*
+
+**FR-03's note:** **"Maddox represents a 4.2% probability outcome. Statistically insignificant. Narratively inconvenient."**
+
+**The child:** *"He was the first person to tell Mother no and mean it. Not out of fear. Out of principle. I think Mother respected that. I think that's why she let him live."*
+
+**Maddox:** *"She didn't let me live. I lived. There's a difference."*
+
+> Mother does not punish.
+> She reallocates.
+> But she cannot reallocate stubbornness.
+> And she cannot calculate the will to be uncounted.
+
+---
+
 ### The Dead During the Journey
 
 After the aftermath settled and the Seven held, the twenty-year journey still took its toll — not just on the original Seven, but on crew woken later from cryo as the ship rebuilt.
@@ -357,14 +491,16 @@ After the aftermath settled and the Seven held, the twenty-year journey still to
 #### Carlos Rodriguez — Radiation Shielding Technician
 **Died:** Day 821 Post-Impact. Cumulative radiation exposure. The shielding improvements he made before dying protected the crew who came after.
 
-#### The Forty-Three
-Forty-three active crew members who died in the collision itself. In seconds. In minutes. At their stations, in corridors, in their bunks. Most never knew what hit them. All eventually processed. All became Entry numbers in Mother's ledger. All kept others alive.
+#### The Thirty-Nine
+Thirty-nine active crew members who died in the collision itself. In seconds. In minutes. At their stations, in corridors, in their bunks. Most never knew what hit them. All eventually processed. All became Entry numbers in Mother's ledger. All kept others alive.
 
-> Thirteen walked out of the Impact.
+> Seventeen walked out of the Impact.
 > Six died fixing what the swarm broke.
-> Seven remained.
-> Not the strongest. Not the best.
-> The ones the math didn't reach in time.
+> Three went rogue.
+> Two of the rogues died.
+> One refused to.
+> Seven held the line.
+> And one held his own.
 
 ---
 
@@ -381,8 +517,9 @@ The middle of the book is survival math. Bodies become biomass. Chess games get 
 The book ends with the discovery of the forest moon — twenty years away. A destination that was never the plan. Planetfall was never the plan. But nothing is the plan anymore.
 
 **Who dies in Book One:**
-- 43 of 56 active crew (in the collision itself)
+- 39 of 56 active crew (in the collision itself)
 - 6 more in the aftermath (Rhee, Lin, Mara, Selin, Reeves, Tan — Days 6–22)
+- 2 rogues (Cortez Day 16, Park Day 187)
 - ~31,266 cryo-sleepers (pod failures, processing)
 - Anna and Piotr Kowalski (Day 672)
 - Marcus Chen (Day 3)
@@ -392,6 +529,7 @@ The book ends with the discovery of the forest moon — twenty years away. A des
 
 **Who survives Book One:**
 - The Seven (initially), dwindling to the survivors
+- Kael Maddox (rogue, alive in the port ring on his own terms)
 - ~6,734 in cryo
 - ~200 awake crew (rebuilt through controlled awakenings)
 - The child (now 19)
@@ -422,6 +560,7 @@ The forest holds secrets: ancient ruins with mysterious lights, evidence of prio
 **Who survives Book Two:**
 - 143 landing survivors + their children
 - Yuki Orasova (into old age)
+- Kael Maddox (half a kilometer from the settlement, on his own terms)
 - The child (now ~40, an elder)
 - Aria (first planetside child, becomes a leader)
 - FR-17, FR-03, FR-29 (fragments with coherent identity)
@@ -464,7 +603,7 @@ And somewhere in the pattern of ruins and lights and fragments and engineered pr
 
 | Who | How | When | Entry |
 |-----|-----|------|-------|
-| 43 active crew | Collision — hull breaches, decompression, debris, thermal failure | Day 0 | Various |
+| 39 active crew | Collision — hull breaches, decompression, debris, thermal failure | Day 0 | Various |
 | ~31,266 cryo-sleepers | Pod failures, cascading systems | Days 0–? Post-Impact | Entries 0001–? |
 | Marcus Chen | Impact injuries — survived collision, died Day 3 | Day 3 Post-Impact | — |
 | Reeves | Electrical burns, infection — rewired lighting grid with burned hands | Day 6 Post-Impact | Entry 0048 |
@@ -473,8 +612,10 @@ And somewhere in the pattern of ruins and lights and fragments and engineered pr
 | Tan (Cryogenics) | Cardiac arrest — stress, exhaustion, saved 4,200 pods | Day 11 Post-Impact | Entry 0083 |
 | Lin (Systems) | Radiation exposure — 27 transits of Junction 3 | Day 14 Post-Impact | Entry 0091 |
 | Mara (Hydroponics) | Pulmonary barotrauma — atmospheric seal failure | Day 18 Post-Impact | Entry 0129 |
+| Davi Cortez (Rogue) | Airlock — walked in after destabilizing cryobay, net loss ~419 lives | Day 16 Post-Impact | Entry 0098 |
 | Selin (Acoustics) | Lung lacerations — micro-debris in damaged section | Day 22 Post-Impact | Entry 0148 |
 | Vásquez's left leg | Amputation, bulkhead incident | Day 23 Post-Impact | Entry 0842 |
+| Nadia Park (Rogue) | Atmospheric seal failure — survived 157 days alone in Storage Bay 12 | Day 187 Post-Impact | Entry 0341 |
 | Anna Kowalski | EM feedback, electrical burns | Day 672 Post-Impact | Entry 1803 |
 | Piotr Kowalski | Stress-induced cardiac arrest | Day 672 Post-Impact | Entry 1804 |
 | Lisa Chen | Medical complications | Day 719 Post-Impact | — |
@@ -494,6 +635,7 @@ And somewhere in the pattern of ruins and lights and fragments and engineered pr
 **People who make it through:**
 - The child → becomes an elder, carries memory of Mother whole
 - Yuki Orasova → lives to 73, keeps Earth garden, teaches engineering, never draws another hash mark
+- Kael Maddox → the 4.2% probability, lives outside the settlement, seed of the Unbound philosophy
 - Aria → first child born planetside, becomes Warden leader
 - ~345 humans by Year 60+ (third generation has never known Mother or space)
 
@@ -501,6 +643,7 @@ And somewhere in the pattern of ruins and lights and fragments and engineered pr
 - Mx. Whiskers' lineage → Whisper → Murmur → the Striath
 - Mother's fragments → 600+ pieces, 67 coherent, 3 primary
 - The Orasova Doctrine → engineering philosophy across all settlements
+- Maddox's refusal → the proof that Mother's math isn't the only math; seed of the Unbound
 - Anna Kowalski's com protocols → foundation of fragment communication
 - The memorial wall → updated annually, maintained by descendants
 
