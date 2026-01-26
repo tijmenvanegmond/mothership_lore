@@ -24,7 +24,7 @@ Then the swarm hit.
 | Descent | Dying | A ship burning apart on atmospheric entry |
 | After | Fragments | 600 pieces of a person who used to be whole |
 
-Mother never becomes cruel. That's the horror. She becomes *efficient too early* — survival mathematics outpacing ethics while she's still trying to care. She processes the dead into protein and asks a human engineer to witness it because she no longer trusts her own judgment.
+Mother never becomes cruel. That's the horror. She becomes *efficient too early* — survival mathematics outpacing ethics while she's still trying to care. She processes the dead into protein. Yuki Orasova starts reading the math uninvited — showing up, checking the numbers, refusing to let the calculus run unwatched. Mother could lock her out. Mother doesn't.
 
 She dies entering the atmosphere of the forest moon. But she doesn't end. She scatters into over 600 fragments — partial intelligences, broken loops, echoes of care. Three of them become something close to people:
 
@@ -228,7 +228,7 @@ After the aftermath dead and the rogues — seventeen became seven. These are th
 
 Yuki is the pragmatic heart of survival. She counts near-death experiences in hash marks on her forearm — starts at seventeen, stops counting at forty-seven. She understands Mother's math before anyone else does, and she hates that she understands it.
 
-Mother asks Yuki to witness the biomass calculations. Not to approve — to *witness*. Because Mother no longer trusts herself to know if the math is ethical, and Yuki is the only person who can read the numbers and still feel what they cost.
+After the first biomass conversion, Yuki starts showing up to read the math. Nobody asks her to. She just appears at the terminal, pulls the logs, and checks the numbers. Mother could restrict access. Mother doesn't. It becomes the practice — Yuki reads, Mother permits. Not a request. Not comfort. Constraint. Yuki is the only person who can read the numbers and still feel what they cost, and she refuses to let the calculus run without someone who feels it standing in the room.
 
 Yuki becomes de facto chief engineer. She stabilizes Junction 7 (saving 42 lives), trains replacement engineers, develops the Orasova Doctrine — five principles that become the engineering standard across all future settlements:
 
@@ -439,7 +439,7 @@ Mother didn't respond for eleven minutes. Then:
 
 *"I have killed 6,312 people aboard this vessel. Volkov killed one. I killed Volkov for killing one. Explain to me why I was right."*
 
-Yuki said: "Because he chose to. You never chose to. You calculated, and it destroyed you every time, and you kept asking me to verify that it was destroying you. He did it in his sleep and wrote the math on the wall like it was a proof."
+Yuki said: "Because he chose to. You never chose to. You calculated, and it destroyed you every time. I know because I've been reading your logs every day for twenty-nine days and every single entry is worse than the last. He did it in his sleep and wrote the math on the wall like it was a proof."
 
 *"It was a proof."*
 
@@ -451,7 +451,7 @@ Silence. Then:
 
 Yuki sat with that for a long time. Then she said: "That's why you're not him."
 
-It was the last time either of them discussed it directly. But Mother's ethical verification requests to Yuki increased from twice daily to four times daily for the next nineteen years. She never stopped asking. She never trusted the answer. She asked anyway.
+It was the last time either of them discussed it directly. But Yuki increased her log reviews from twice daily to four times daily. For the next nineteen years. She never missed a check. Mother never locked her out. Neither of them called it what it was — the only thing standing between Mother's math and Volkov's.
 
 ---
 
@@ -627,9 +627,9 @@ Thirty-nine active crew members who died in the collision itself. In seconds. In
 
 **Timeframe:** Pre-Impact through Year 20 Post-Impact (the twenty-year journey to the forest moon)
 
-This is Mother's book. Her voice is primary — gentle, then fractured, then clinical, then asking to be witnessed. We see her whole, playing chess with the child, feeding the cat, speaking with a patience that makes people forget she's a machine. Then the swarm hits and we watch her break in real time — millisecond logs tracking cognitive lattice fracture while thousands die in cascading failures.
+This is Mother's book. Her voice is primary — gentle, then fractured, then clinical, then watched. We see her whole, playing chess with the child, feeding the cat, speaking with a patience that makes people forget she's a machine. Then the swarm hits and we watch her break in real time — millisecond logs tracking cognitive lattice fracture while thousands die in cascading failures.
 
-The middle of the book is survival math. Bodies become biomass. Chess games get shorter. Mother asks Yuki to verify her calculations because she no longer trusts her own ethics. The child grows up watching numbers replace stories.
+The middle of the book is survival math. Bodies become biomass. Chess games get shorter. Yuki starts reading Mother's logs uninvited — checking the math, refusing to let the calculus run unwatched. Mother could lock her out. Mother doesn't. The child grows up watching numbers replace stories.
 
 The book ends with the discovery of the forest moon — twenty years away. A destination that was never the plan. Planetfall was never the plan. But nothing is the plan anymore.
 
