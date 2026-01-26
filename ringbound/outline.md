@@ -32,8 +32,7 @@ By this era, humanity has spread across the forest moon's **trisolar system** wi
 ### Chapters Needed:
 2. **Chapter 2 — Ring Expansion** — Orbital construction, multiple generations, fragment territories consolidating
 3. **Chapter 3 — The Arrival** — New mothership detection, preparation, first contact
-4. **Chapter 4 — Fractured Welcome** — New crew's shock at finding fragments, factions, Striath instead of unified Mother-led colony
-5. **Chapter 5 — Ringbound** — Political tensions, fragment disagreements about new arrivals, humanity choosing between paths
+5. **Chapter 5 — Fractured Welcome** — New crew's shock at finding fragments, factions, a war breaks out for the new ships resources (higlights are new technology, and large genetic resources)
 
 ---
 
