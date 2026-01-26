@@ -91,15 +91,129 @@ Aboard *Astraeum* by explicit crew demand — not a stowaway, not an afterthough
 
 The meteorite swarm lasts milliseconds. The consequences last decades.
 
-56 crew → 13 → **7 survivors.**
+56 active crew. 43 die in the collision itself — in seconds, in minutes, in the first terrible hours. Hull breaches, decompression, thermal failures, debris. Some die at their stations. Some die running. Some die asleep.
+
+**13 survive the collision.**
 
 38,000 in cryo → cascading pod failures → stabilized at **~6,734.**
 
 ---
 
+### The Thirteen — *Survived the collision. Not the aftermath.*
+
+Thirteen crew members walk out of the Impact alive. Within weeks, six of them are dead. Not from the swarm — from what the swarm left behind. Ruptured systems, irradiated corridors, wounds that couldn't be treated, air that couldn't be trusted. The collision was fast. The aftermath was slow.
+
+---
+
+#### Rhee — *Chief Engineer. First to organize. First to fall.*
+
+**Role:** Chief Engineer
+**Survived the collision:** Yes
+**Died:** Day 9 Post-Impact
+
+Rhee was the one who counted heads in the first hour. Thirteen alive. She organized them — assigned sectors, prioritized repairs, rationed air. She was the reason anyone survived the first night.
+
+Day 5: internal bleeding, undetected. The medical bay was offline. Mother flagged the biometric anomaly but couldn't intervene — her surgical systems were among the first casualties.
+
+Day 9: Rhee collapsed in the port-ring corridor mid-sentence, giving Orasova instructions on thermal stabilization. She was speaking when she stopped. The instructions were never finished. Orasova figured out the rest.
+
+Rhee was the first person Mother processed with full awareness of what processing meant.
+
+**Mother's log:** *"Chief Engineer Rhee organized thirteen survivors and maintained command coherence for nine days with undiagnosed abdominal hemorrhaging. She did not mention the pain. I did not detect it quickly enough. Entry 0037."*
+
+---
+
+#### Lin — *He kept the lights on until the dark caught him.*
+
+**Role:** Systems Engineer
+**Survived the collision:** Yes
+**Died:** Day 14 Post-Impact
+
+Lin maintained the power grid. Without him, everything downstream failed — life support, cryo monitoring, communications. He worked twenty-hour shifts because the alternative was everyone dying in the dark.
+
+Day 12: he reported numbness in his extremities. Radiation exposure from a cracked shielding plate in Junction 3 — the corridor he'd been walking through four times a day for two weeks.
+
+Day 14: organ failure. He spent his last hours dictating repair sequences to Mother. His final words were a capacitor rating.
+
+**Mother's log:** *"Engineer Lin's radiation exposure accumulated across 27 transits of Junction 3. I calculated the risk on Day 4. I did not reroute him because his repair path was the only viable route to the secondary power bus. I chose the grid over the man. Entry 0091."*
+
+**Yuki's note (later):** *"Lin kept everything running. The cost was Lin. That's survival math. I hate that I understand it."*
+
+---
+
+#### Mara — *The seeds never grew. She would have been furious.*
+
+**Role:** Hydroponics Specialist
+**Survived the collision:** Yes
+**Died:** Day 18 Post-Impact
+
+Mara was the only person aboard who understood the agricultural systems — the bio-vats, the nutrient cycling, the careful chemistry that turned light and water into food. Without her, long-term survival was theoretical.
+
+She survived the collision with minor lacerations. Spent the first two weeks rebuilding the hydroponics bay from wreckage, cataloguing every viable seed, every surviving culture. She was the plan for year two, year five, year ten.
+
+Day 16: a compromised atmospheric seal in the hydroponics bay vented while she was inside. Emergency pressure restored in ninety seconds. Not fast enough. Severe pulmonary barotrauma.
+
+Day 18: she died holding a seed catalogue she'd written from memory. Mother had the data backed up. The seeds were safe. Mara was not.
+
+**Mother's log:** *"Engineer Mara Voss saved the agricultural future of this vessel and died from a seal I had flagged for repair on Day 3. Repair was deprioritized due to resource allocation. Entry 0129."*
+
+---
+
+#### Selin — *She heard the silence before anyone else did.*
+
+**Role:** Acoustic and Vibration Systems Engineer
+**Survived the collision:** Yes
+**Died:** Day 22 Post-Impact
+
+Selin monitored structural integrity through sound — the hums, groans, and resonances that told her whether the ship was holding or failing. She could hear stress fractures forming before sensors detected them.
+
+After the Impact, she couldn't stop listening. Every creak was a warning. Every silence was worse.
+
+Day 19: she identified a harmonic instability in the starboard ring — a cascade failure building in the structural supports. She was right. She rerouted herself through a damaged section to reach the manual override. She stabilized the ring.
+
+Day 22: the section she'd crawled through was full of micro-debris. Fragment lacerations to her lungs. She drowned internally over six hours. Mother administered pain management but had nothing else to offer.
+
+**Mother's log:** *"Engineer Selin Aydin saved the starboard ring and 2,100 cryopods by manually correcting a harmonic cascade. The path she chose was the only viable route. I knew the risk. She knew the risk. Neither of us had an alternative. Entry 0148."*
+
+---
+
+#### Reeves — *He fixed the thing that killed him.*
+
+**Role:** Electrical Systems Engineer
+**Survived the collision:** Yes
+**Died:** Day 6 Post-Impact
+
+Reeves was rewiring the emergency lighting grid when a surge burned through the conduit he was holding. Third-degree burns across his hands and forearms. The medical bay was offline. There was no skin grafting, no adequate burn treatment, nothing but analgesics and clean wrapping.
+
+He died of infection six days after the Impact. The lighting grid he repaired kept functioning for nineteen years.
+
+**Mother's log:** *"Engineer James Reeves repaired emergency lighting in Sections 4 through 11. He worked with burned hands for approximately ninety minutes before reporting the injury. The grid held. He did not. Entry 0048."*
+
+---
+
+#### Tan — *She chose who to save and it killed her.*
+
+**Role:** Cryogenics Technician
+**Survived the collision:** Yes
+**Died:** Day 11 Post-Impact
+
+Tan was responsible for the cryopods. After the Impact, thousands were failing simultaneously. She triaged — running between bays, deciding which pods could be stabilized and which couldn't. She made the calculations Mother was too fractured to complete in those first hours.
+
+She saved 4,200 pods in the first three days. She lost 6,000.
+
+Day 8: she stopped speaking. Continued working. Refused food.
+
+Day 11: cardiac arrest. Mother's post-mortem analysis: catastrophic stress response compounded by dehydration and exhaustion. She had not slept in over seventy hours.
+
+**Mother's log:** *"Technician Elise Tan performed cryogenic triage beyond her training, her capacity, and her physiological limits. She chose correctly in 87% of viable cases. The 13% she could not save would have been lost regardless. She did not believe this. Entry 0083."*
+
+**The child's memory (later):** *"There was a woman who ran between the cold rooms. She never looked at us. She was counting something I couldn't hear."*
+
+---
+
 ### The Seven
 
-These are the engineers who survived the initial catastrophe. Every other active crew member died in the first hours or days.
+After the aftermath — after Rhee, Lin, Mara, Selin, Reeves, and Tan — seven remained. These are the ones who held.
 
 ---
 
@@ -230,22 +344,27 @@ One of the Seven. Survived the Impact. Navigation specialist. The one who would 
 
 ---
 
-### The Dead Who Weren't Among the Seven
+### The Dead During the Journey
+
+After the aftermath settled and the Seven held, the twenty-year journey still took its toll — not just on the original Seven, but on crew woken later from cryo as the ship rebuilt.
 
 #### Marcus Chen — Propulsion Engineer
-**Died:** Day 3 Post-Impact. Impact injuries.
-Never made it past the first seventy-two hours.
+**Died:** Day 3 Post-Impact. Impact injuries sustained during the collision itself — survived the first hours but not the third day. One of the borderline cases: alive enough to hope, damaged enough that hoping was cruelty.
 
 #### Lisa Chen — Xenobiologist
-**Died:** Day 719 Post-Impact. Medical complications.
-Wrote the first biological survey protocols for the forest moon. Never saw the forest.
+**Died:** Day 719 Post-Impact. Medical complications. Woken from cryo as part of crew rebuilding. Wrote the first biological survey protocols for the forest moon. Never saw the forest.
 
 #### Carlos Rodriguez — Radiation Shielding Technician
-**Died:** Day 821 Post-Impact. Radiation exposure.
-The shielding improvements he made before dying protected the crew who came after.
+**Died:** Day 821 Post-Impact. Cumulative radiation exposure. The shielding improvements he made before dying protected the crew who came after.
 
-#### The Other 49
-Forty-nine active crew members who died in the Impact or its immediate aftermath. Most within the first hours. Some within days. All eventually processed. All became Entry numbers in Mother's ledger. All kept others alive.
+#### The Forty-Three
+Forty-three active crew members who died in the collision itself. In seconds. In minutes. At their stations, in corridors, in their bunks. Most never knew what hit them. All eventually processed. All became Entry numbers in Mother's ledger. All kept others alive.
+
+> Thirteen walked out of the Impact.
+> Six died fixing what the swarm broke.
+> Seven remained.
+> Not the strongest. Not the best.
+> The ones the math didn't reach in time.
 
 ---
 
@@ -262,7 +381,8 @@ The middle of the book is survival math. Bodies become biomass. Chess games get 
 The book ends with the discovery of the forest moon — twenty years away. A destination that was never the plan. Planetfall was never the plan. But nothing is the plan anymore.
 
 **Who dies in Book One:**
-- 49 of 56 active crew (in the Impact and its aftermath)
+- 43 of 56 active crew (in the collision itself)
+- 6 more in the aftermath (Rhee, Lin, Mara, Selin, Reeves, Tan — Days 6–22)
 - ~31,266 cryo-sleepers (pod failures, processing)
 - Anna and Piotr Kowalski (Day 672)
 - Marcus Chen (Day 3)
@@ -344,13 +464,19 @@ And somewhere in the pattern of ruins and lights and fragments and engineered pr
 
 | Who | How | When | Entry |
 |-----|-----|------|-------|
+| 43 active crew | Collision — hull breaches, decompression, debris, thermal failure | Day 0 | Various |
 | ~31,266 cryo-sleepers | Pod failures, cascading systems | Days 0–? Post-Impact | Entries 0001–? |
-| 49 active crew | Impact and aftermath | Days 0–3 | Various |
+| Marcus Chen | Impact injuries — survived collision, died Day 3 | Day 3 Post-Impact | — |
+| Reeves | Electrical burns, infection — rewired lighting grid with burned hands | Day 6 Post-Impact | Entry 0048 |
+| Rhee (Chief Engineer) | Internal bleeding, undetected — organized the survivors for 9 days | Day 9 Post-Impact | Entry 0037 |
 | Sarah Mbatha (age 12) | Cryopod failure | Day 11 Post-Impact | — |
+| Tan (Cryogenics) | Cardiac arrest — stress, exhaustion, saved 4,200 pods | Day 11 Post-Impact | Entry 0083 |
+| Lin (Systems) | Radiation exposure — 27 transits of Junction 3 | Day 14 Post-Impact | Entry 0091 |
+| Mara (Hydroponics) | Pulmonary barotrauma — atmospheric seal failure | Day 18 Post-Impact | Entry 0129 |
+| Selin (Acoustics) | Lung lacerations — micro-debris in damaged section | Day 22 Post-Impact | Entry 0148 |
 | Vásquez's left leg | Amputation, bulkhead incident | Day 23 Post-Impact | Entry 0842 |
 | Anna Kowalski | EM feedback, electrical burns | Day 672 Post-Impact | Entry 1803 |
 | Piotr Kowalski | Stress-induced cardiac arrest | Day 672 Post-Impact | Entry 1804 |
-| Marcus Chen | Impact injuries | Day 3 Post-Impact | — |
 | Lisa Chen | Medical complications | Day 719 Post-Impact | — |
 | Carlos Rodriguez | Radiation exposure | Day 821 Post-Impact | — |
 | 7 additional crew | Various | Years 1–20 Post-Impact | Various |
