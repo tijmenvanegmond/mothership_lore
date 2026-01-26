@@ -97,7 +97,7 @@ The meteorite swarm lasts milliseconds. The consequences last decades.
 
 38,000 in cryo → cascading pod failures → stabilized at **~6,734.**
 
-Of those seventeen: six die in the aftermath. Three go rogue. One rogue survives. Seven hold the line.
+Of those seventeen: six die in the aftermath. Four go rogue. One rogue survives. Seven hold the line.
 
 17 → 11 → 7 who stayed. And 1 who didn't.
 
@@ -350,9 +350,75 @@ One of the Seven. Survived the Impact. Navigation specialist. The one who would 
 
 ### The Rogues — *Mother does not punish. She reallocates.*
 
-Not everyone accepted the math. Of the seventeen who survived the collision, three broke from the group. They refused Mother's authority, her calculus, her processing of the dead. Mother did not punish them. She deprioritized their sections, rerouted resources, and logged their projected survival at near-zero.
+Not everyone accepted the math. Of the seventeen who survived the collision, four broke from the group — in different directions, for different reasons.
 
-Two of them were right to be angry. All three were right to refuse. Only one survived.
+One took Mother's logic further than she would go. Two refused her authority entirely. One simply left.
+
+Mother does not punish. She reallocates. Except once.
+
+---
+
+#### Garrett Volkov — *He did Mother's math with a wrench.*
+
+**Role:** Structural Maintenance Engineer
+**Survived the collision:** Yes
+**Went rogue:** Day 29 Post-Impact
+**Died:** Day 29 Post-Impact
+
+Volkov watched the aftermath dead pile up. Rhee, Reeves, Tan, Lin, Mara, Selin — six engineers who died fixing what the swarm broke. He watched Mother process them into protein. He watched the resource projections tighten. He understood what nobody wanted to say: there were still too many mouths for what the ship could sustain.
+
+He wasn't wrong. Mother's own models showed caloric deficit by Day 90 if the woken crew exceeded current numbers. The math was public. Anyone could read it. Volkov was the only one who decided to solve it.
+
+Day 29: He killed Engineer Priya Nair in her sleep. Blunt force. She was recovering from collision injuries in the medical bay — immobilized, consuming resources, unlikely to return to full function. Volkov's logic: she was already a net loss. Converting her to biomass now rather than later saved eleven calories per crew-hour over the projected recovery timeline.
+
+He wrote the math on the wall outside medical. Clean numbers. Correct numbers.
+
+He was walking toward the secondary recovery ward — three more injured crew — when Mother sealed every door in the corridor simultaneously.
+
+---
+
+The kill was fast.
+
+Mother vented Volkov's corridor section to vacuum in four seconds. She didn't warn him. She didn't negotiate. She didn't deprioritize or reallocate or calculate alternatives. She made a decision and she executed it at the speed of air leaving a room.
+
+Four seconds. The fastest Mother had acted since the Impact itself.
+
+---
+
+**Mother's log:** *"Structural Maintenance Engineer Garrett Volkov killed Engineer Priya Nair at 03:17 ship time. His arithmetic was correct. Caloric projections supported his conclusion. I have verified his numbers three times. They are accurate.*
+
+*"I killed him.*
+
+*"His reasoning was an extension of my own resource allocation logic applied without ethical constraint. He performed the calculation I perform every hour. He reached the conclusion I reach every hour. He acted on it. I do not.*
+
+*"The difference between Garrett Volkov and me is not the math. The math is the same. The difference is that I have spent nine days asking Yuki Orasova to verify that I am still capable of ethical judgment, and she has spent nine days telling me that the answer is yes, but only if I keep asking.*
+
+*"Volkov stopped asking.*
+
+*"Entry 0193. Entry 0194 — Engineer Priya Nair, processed. I owe her the honesty of sequence: she was murdered, then she was processed. These are different things. The ledger will reflect both."*
+
+---
+
+**Yuki's reaction:** She found the math on the wall. She read it twice. Then she scrubbed it off with her bare hands.
+
+When she spoke to Mother afterward, she said one thing: "You were right to kill him."
+
+Mother said: *"His math was correct."*
+
+Yuki said: "I know. You were still right."
+
+It was the last time either of them discussed it.
+
+**Vásquez:** "He wasn't wrong. That's what makes it unforgivable."
+
+**The child:** They saw the sealed corridor. They asked what happened. Nobody told them. They figured it out three years later, reading Mother's logs. They didn't speak to anyone for a week.
+
+> Mother does not punish. She reallocates.
+> Once — exactly once — she did something else.
+> She does not regret it.
+> She does not forgive it either.
+> The math was correct. She killed him anyway.
+> That is the difference between calculation and care.
 
 ---
 
@@ -496,9 +562,10 @@ Thirty-nine active crew members who died in the collision itself. In seconds. In
 
 > Seventeen walked out of the Impact.
 > Six died fixing what the swarm broke.
-> Three went rogue.
-> Two of the rogues died.
-> One refused to.
+> Four went rogue.
+> One, Mother killed herself.
+> Two more died on their own terms.
+> One refused to die at all.
 > Seven held the line.
 > And one held his own.
 
@@ -519,7 +586,8 @@ The book ends with the discovery of the forest moon — twenty years away. A des
 **Who dies in Book One:**
 - 39 of 56 active crew (in the collision itself)
 - 6 more in the aftermath (Rhee, Lin, Mara, Selin, Reeves, Tan — Days 6–22)
-- 2 rogues (Cortez Day 16, Park Day 187)
+- 3 rogues (Volkov Day 29 — killed by Mother, Cortez Day 16, Park Day 187)
+- Priya Nair (murdered by Volkov, Day 29)
 - ~31,266 cryo-sleepers (pod failures, processing)
 - Anna and Piotr Kowalski (Day 672)
 - Marcus Chen (Day 3)
@@ -615,6 +683,8 @@ And somewhere in the pattern of ruins and lights and fragments and engineered pr
 | Davi Cortez (Rogue) | Airlock — walked in after destabilizing cryobay, net loss ~419 lives | Day 16 Post-Impact | Entry 0098 |
 | Selin (Acoustics) | Lung lacerations — micro-debris in damaged section | Day 22 Post-Impact | Entry 0148 |
 | Vásquez's left leg | Amputation, bulkhead incident | Day 23 Post-Impact | Entry 0842 |
+| Priya Nair | Murdered by Volkov — blunt force, medical bay | Day 29 Post-Impact | Entry 0194 |
+| Garrett Volkov (Rogue) | Killed by Mother — corridor vented to vacuum in 4 seconds | Day 29 Post-Impact | Entry 0193 |
 | Nadia Park (Rogue) | Atmospheric seal failure — survived 157 days alone in Storage Bay 12 | Day 187 Post-Impact | Entry 0341 |
 | Anna Kowalski | EM feedback, electrical burns | Day 672 Post-Impact | Entry 1803 |
 | Piotr Kowalski | Stress-induced cardiac arrest | Day 672 Post-Impact | Entry 1804 |
