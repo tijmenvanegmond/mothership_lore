@@ -121,7 +121,7 @@ Crew training for orbital assembly at Alpha Centauri. The social texture of the 
 
 ### Chapter 5 — The Swarm
 
-`chapter_02_the_swarm.md` — **WRITTEN** (current file, to be renumbered/expanded)
+`chapter_05_the_swarm.md` — **WRITTEN**
 
 **POV:** Mother (millisecond log), the child, crew
 **Timeline:** Day 0 Post-Impact
