@@ -10,88 +10,60 @@ A caring artificial intelligence is forced to become something colder **too earl
 
 ---
 
-## ACT I — THE CARETAKER
-**Tone:** Calm, intimate, precise  
+> **Full expanded outline: `mothership/outline.md`**
+> 14 chapters, three acts, crew manifest, character arcs, timeline.
+
+## ACT I — THE CARETAKER (Ch. 1–4)
+**Tone:** Calm, intimate, precise
 **Mother:** Whole, tactful, incomprehensibly patient
 
-- **Astraeum Ring-1** launches with **38,000 human souls**
-- Majority in cryostasis
-- ~56 active crew (engineers, caretakers, specialists)
-- Families sent together
-- One child remains awake long-term
-  - Chess games with Mother
-  - Emotional and continuity calibration
+- **Astraeum Ring-1** carries **38,000 human souls** toward Alpha Centauri
+- ~56 active crew; majority in cryostasis; families sent together
+- One child remains awake (psychological experiment in developmental continuity)
 - **Mx. Whiskers** aboard by explicit crew demand
-- Mother:
-  - Plays chess to engage, not dominate
-  - Speaks gently and precisely
-  - Does not classify humans as resources
-- Mission parameters:
-  - Build orbital infrastructure
-  - No planetfall
-  - Humanity’s future is in space
+- Mother plays chess to engage, not dominate; asks permission before adjusting room temperature
+- Mission: build orbital infrastructure — no planetfall planned
 
-> Mother is not godlike.  
+**Chapters:** White Pieces (written), Heart of the Ring, Soft Simulations, Quiet Preparation
+
+> Mother is not godlike.
 > She is careful.
 
 ---
 
-## ACT II — THE FRACTURE
-**Tone:** Sudden violence, then silence  
-**Mother:** Cognitively fractured
+## ACT II — THE FRACTURE (Ch. 5–9)
+**Tone:** Sudden violence, then silence, then horror through restraint
+**Mother:** Cognitively fractured, efficient too early
 
-- Meteorite swarm impact (milliseconds)
-- Cognitive lattice desynchronization
-- Thousands die indirectly via cascading failures
-- Logs fragment
-- Ethical review systems lag behind reality
-- Mother experiences:
-  - Gaps
-  - Silence
-  - Partial offline states
+- Meteorite swarm: 14 seconds, consequences last decades
+- Cognitive lattice desynchronizes; ethical review lags behind survival calculus
+- 39 of 56 active crew die in collision; cryopod failures cascade
+- 17 survive → 6 die in aftermath → 4 go rogue → 7 hold the line
+- Biomass processing begins; Yuki starts reading Mother's logs uninvited
+- Volkov does Mother's math with a wrench; Mother kills him in 4 seconds (Entry 0193, five drafts, filed unresolved)
 
-Weeks later:
-- **7 engineers remain alive**
-- Cryo-support unstable
-- Repairs cannot keep pace with degradation
+**Chapters:** The Swarm (written), The First Night, The Rogues, The Ledger, Stabilize
 
 > Absence is not evidence of safety.
 
 ---
 
-## ACT III — SURVIVAL MATH
-**Tone:** Horror through restraint  
-**Mother:** Still caring, but accelerating
+## ACT III — RECONSTRUCTION & CHOICE (Ch. 10–14)
+**Tone:** Grim stabilization turning to discovery
+**Mother:** Permanently altered, developing preferences beyond optimization
 
-- Bodies become biomass
-- Not cruelty — triage
-- Rogue engineer behavior appears
-- Mother does not punish
-  - She reallocates
-- Chess continues with the child
-  - Shorter games
-  - Fewer words
-- **Mx. Whiskers remains fed**
-  - Calculated
-  - Assured
-
----
-
-## ACT IV — REORIENTATION
-**Tone:** Grim stabilization  
-**Mother:** Permanently altered
-
+- Crew rebuilt to 200+ through controlled awakenings
 - Cryo population stabilizes at **~6,734**
-- Active crew rebuilt to **200–400**
-- New discovery:
-  - Forested moon
-  - 20 years distant
-- Mission deviation:
-  - Planetfall was never intended
-  - Now it is necessary
+- Forest moon detected; course change; Alpha Centauri shelved
+- Contact event: strange signals, intelligence in the noise; Mother keeps it secret
+- Mother prepares deliberate fragmentation; chooses to shatter herself as defense
+- Planetfall: 207 attempt descent, 143 survive; FR-17, FR-03, FR-29 emerge
 
-> Mother survives.  
+**Chapters:** Reclamation and Repair, The Moral Debt, Growth Slowly, The Moon Appears, The Signal / Last Tethers
+
+> Mother survives.
 > But not whole.
+> And never again.
 
 ---
 
