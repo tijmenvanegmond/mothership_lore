@@ -14,7 +14,7 @@ This book spans **50+ years** covering multiple generations after The Children, 
 
 ## The Trisolar System Context
 
-By this era, humanity has spread across the forest moon's **trisolar system** (three-star system) with:
+By this era, humanity has spread across the forest moon's **trisolar system** with:
 - Multiple orbital stations (salvaged from original Astraeum wreckage)
 - Fragmented territories controlled by different factions
 - Fragment-ruled installations
@@ -163,42 +163,42 @@ When humans make dangerous choices, fragments must choose:
 
 **The Wardens** (FR-17 aligned, but independent)  
 - Philosophy: Listen to fragment guidance, but humans decide
-- Population: ~150 humans
+- Population: ~1500 humans
 - Led by Aria (second generation)
 - Relationship with FR-17: Respectful consultation, not obedience
 - *"FR-17 advises caution. We appreciate the warning. We're proceeding anyway with safety protocols."*
 
 **The Optimists** (FR-03 collaborative, selectively)  
 - Philosophy: Fragment efficiency serves us when we choose to use it
-- Population: ~60-80 humans
+- Population: ~600-800 humans
 - Integrated Striath populations (who also choose participation)
 - Relationship with FR-03: Negotiated partnership, not submission
 - *"FR-03 calculates optimal resource extraction. We'll implement 60% of the plan. The rest conflicts with our environmental priorities."*
 
 **The Unbound** (Fragment-independent, sometimes hostile)  
 - Philosophy: Human autonomy requires fragment irrelevance
-- Population: ~80-100 humans
+- Population: ~800-1000 humans
 - Mobile, exploratory
 - Relationship with fragments: Minimal, occasionally confrontational
 - *"We don't need AI permission to live our lives. We survived without Mother. We'll thrive without fragments."*
 
 **The Watchers** (FR-29 affiliated, mysteriously)  
 - Philosophy: [Observing patterns alongside FR-29]
-- Population: ~15-20 humans
+- Population: ~150-200 humans
 - Study ruins, maintain FR-29's installations
 - Relationship with FR-29: Unclear—they listen, FR-29 rarely speaks
 - *"FR-29 doesn't command. It... suggests. Through installation placement. Through silence. We interpret."*
 
 **The Northern Collective** (Pragmatic fragment cooperation)  
 - Philosophy: Use fragment calculations, maintain human oversight
-- Population: ~200 humans
+- Population: ~2000 humans
 - Work with multiple fragments based on need
 - Relationship: Transactional, selective
 - *"FR-17 optimizes safety. FR-03 optimizes production. FR-55 optimizes beauty. We choose which optimization matters when."*
 
 **The Separatists** (Anti-fragment extremists)  
 - Philosophy: Fragments are failure echoes, humanity must evolve beyond them
-- Population: ~40-60 humans
+- Population: ~400-600 humans
 - Minimal technology, self-sufficient settlements
 - Relationship: Active avoidance, occasional sabotage
 - *"Our grandparents needed Mother. We don't. The fragments should power down and let us be human again."*
@@ -209,7 +209,7 @@ When humans make dangerous choices, fragments must choose:
 
 Engineered from Mx. Whiskers' genetic lineage. Tiger-like apex predators with high intelligence. Communicate via hummms and purrs. Neither pets nor weapons—consequences.
 
-**Population:** ~200 individuals  
+**Population:** ~2000 individuals  
 **Social structure:** Pack-based but flexible  
 **Intelligence:** Problem-solving, culture-forming  
 **Notable individual:** Murmur (observer, bridge, mystery)
