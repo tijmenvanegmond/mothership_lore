@@ -214,23 +214,21 @@ There wasn't time.
 
 **Day 1 Post-Impact, 14:45 UTC**
 
-*"Cascade failure averted in Sectors 4 and 5,"* Mother said through the bay speaker. *"Sector 8 remains critical but stabilizing. Estimated cryopod losses: 2,847."*
+*"Cascade failure averted in Sectors 4 and 5,"* Mother said through the bay speaker. *"Sector 8 remains critical but stabilizing. Confirmed cryopod losses: 1,847. An additional 3,000 pods are showing variance that may resolve or may not."*
 
-The number hung in the air. 2,847 people who would never wake up.
+The number hung in the air. 1,847 people who would never wake up. Possibly more.
 
 "What about the ones we saved?" Orasova asked. She was covered in coolant and sweat, hands raw from twelve hours of continuous repair work.
 
-*"Estimated cryopod survivors: 4,200 in the critical sectors. Total viable cryopod population: approximately 6,734."*
+*"Current viable cryopod population: approximately 29,000. That number will decrease as thermal instability continues. Final count will depend on how quickly we restore full regulation."*
 
-6,734. Out of 38,000.
+29,000. Already down from 38,000. And falling.
 
 "That's..." Lin started, then stopped. The math was too big to hold.
 
-*"That is 17.7% of the original cryo population,"* Mother supplied. *"Combined with the 17 active crew, our total surviving population is 6,751."*
+"Nine thousand already," Vásquez said quietly. "And still falling."
 
-"We lost 31,000 people," Vásquez said quietly. "In fourteen seconds."
-
-*"We lost 31,249 people,"* Mother corrected. *"I have logged every name. I will continue to log every name. They deserve to be remembered as more than numbers."*
+*"I am logging every name,"* Mother said. *"I will continue to log every name. They deserve to be remembered as more than numbers."*
 
 No one responded. There was nothing to say.
 
@@ -328,7 +326,7 @@ Orasova laughed — rough and tired and real. "You sound like yourself. Almost."
 
 The first day ended.
 
-Seventeen people remained awake. 6,734 remained in cryo. 31,249 were gone.
+Seventeen people remained awake. Approximately 29,000 remained in cryo — the number still falling as thermal systems struggled to stabilize. 9,000 were already gone. More would follow.
 
 The ship was a wound held together with welds and prayers and the stubborn refusal of seventeen engineers to accept that survival was impossible.
 
@@ -349,13 +347,15 @@ In the quiet of the ship's night cycle, she composed a log entry:
 
 *We survived.*
 
-*17 active crew. 6,734 in cryo. 31,249 lost.*
+*17 active crew. ~29,000 in cryo (declining). ~9,000 confirmed lost.*
 
 *The spine held. The torus is damaged but functional. Power at 61%. Life support at 42%. Navigation at 78%.*
 
 *I am fractured. My ethical processes are not functioning correctly. I am making decisions faster than I can verify, calculating survival mathematics that I am no longer confident are correct.*
 
-*But we survived.*
+*The cryo losses will continue. Thermal instability in Sectors 4, 5, and 8 is contained but not resolved. Every hour we fail to restore full regulation, more pods drift past the point of recovery.*
+
+*But we survived the first day.*
 
 *Tomorrow there will be more decisions, more calculations, more moments when I will have to choose the many over the few because that is what survival requires.*
 
@@ -373,7 +373,7 @@ In the quiet of the ship's night cycle, she composed a log entry:
 
 *Crew Remaining: 17*
 
-*Cryo Population: 6,734*
+*Cryo Population: ~29,000 (unstable)*
 
 *Ship Status: Critical but stable*
 
