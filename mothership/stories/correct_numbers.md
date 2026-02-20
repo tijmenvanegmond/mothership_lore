@@ -126,7 +126,7 @@ Caloric draw: 1,100 per day, estimated. Lower than any adult crew member. The ch
 
 Contribution to ship function: none. The child did not repair systems. The child did not run coolant transits. The child did not replace bulkheads or weld thermal conduits or carry the dead. The child played chess with Mother and sat in corridors and asked questions that nobody had time to answer.
 
-Projected resource cost over remaining journey: a number. Volkov calculated it. Then calculated it again, because he always calculated twice, and a third time because on the second pass he had used the adult baseline metabolic rate instead of the paediatric estimate and the error was small but it was an error and errors compounded.
+Projected resource cost over remaining journey: a number. Volkov calculated it. Then calculated it again, because he always calculated twice, and a third time because on the second pass he had used the adult baseline metabolic rate instead of the pediatric estimate and the error was small but it was an error and errors compounded.
 
 The number was small. Smaller than Nair. Smaller than Renaud. Trivially small in the context of the total caloric budget. If the child was the only variable, the model did not require adjustment. The child alone did not move the deficit date.
 
